@@ -1,3 +1,3 @@
 # DIDSmartContracts
 
-The code can be found in the Developement branch
+The developement of the project can be found in the features branches
